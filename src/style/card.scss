@@ -1,0 +1,11 @@
+.card {
+    &-text {
+        text-transform: lowercase;
+    }
+
+    &-price {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
